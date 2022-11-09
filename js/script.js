@@ -1,11 +1,9 @@
 'use strict';
 
 const navSystemName = 'Навигационная система Soundmax';
-
 console.log(navSystemName);
 
 const desktopGameName = 'Настольная игра “На 4-х ногах”';
-
 console.log(desktopGameName);
 
 const amountNavSystem = 5;
